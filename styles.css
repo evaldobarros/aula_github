@@ -1,0 +1,87 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+span {
+  color: blue;
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-seri;
+  margin: 10px;
+  margin-left: 20px;
+}
+h1 {
+  display: flex;
+  justify-content: center;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(67, 67, 119);
+  font-size: 40px;
+  margin: 10px;
+}
+a {
+  text-decoration: none;
+  font-size: 20px;
+}
+header {
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(233, 189, 189);
+  display: flex;
+  margin: 0px;
+  width: auto;
+}
+ul {
+  display: flex;
+  padding-left: 150px;
+  padding-left: 390px;
+}
+li {
+  display: flex;
+  padding: 10px;
+  padding-left: 0px;
+  justify-content: flex-start;
+}
+.div00 {
+  display: flex;
+  justify-content: center;
+  font-size: 25px;
+}
+.seçao02,
+.seçao03,
+.seçao04 {
+  display: flex;
+  justify-content: space-around;
+  margin: 100px;
+}
+.seçao02 {
+  background-color: antiquewhite;
+}
+.seçao03 {
+  background-color: aqua;
+}
+.seçao04 {
+  background-color: rgb(187, 129, 158);
+}
+p {
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+  margin: 10px;
+}
+h3 {
+  font-size: 35px;
+  margin: 10px;
+}
+img {
+  margin: 10px;
+  margin-left: 20px;
+  border-radius: 20px;
+}
+.li01 {
+  background-color: rgb(146, 228, 231);
+}
+.li02 {
+  background-color: rgb(209, 195, 221);
+}
+.li03 {
+  background-color: chartreuse;
+}
